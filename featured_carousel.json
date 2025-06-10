@@ -1,0 +1,12 @@
+ [
+      {
+        "imageURL": "https://yourdomain.com/images/featured_sunday.jpg",
+        "title": "25th Anniversary",
+        "subtitle": "25 Years of Summer Camp"
+      },
+      {
+        "imageURL": "https://yourdomain.com/images/featured_outpouring.jpg",
+        "title": "Outpouring",
+        "subtitle": "July 12th, 2025"
+      }
+    ]
